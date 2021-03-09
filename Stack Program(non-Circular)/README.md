@@ -6,7 +6,8 @@ Implement a Stack Program for a (non-Circular) Integer Stack of size 10
 - int stack_full()
 - int stack_empty()
 
-# Test the Stack Program Write the main function to exercise the 4 function
+# Test the Stack Program 
+  Write the main function to exercise the 4 function
 
 # Do not use pointers to call functions
 
@@ -22,6 +23,7 @@ Implement a Stack Program for a (non-Circular) Integer Stack of size 10
   - description: appends data to the stack
   - input: data to append (the stack is a global structure)
   - output: none
+  
 #pop
   - description: removes data from the stack
   - input: none
