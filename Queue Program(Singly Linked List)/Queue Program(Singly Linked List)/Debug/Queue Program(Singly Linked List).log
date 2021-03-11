@@ -1,0 +1,9 @@
+﻿  Queue.c
+f:\software\github\data_structure\queue program(singly linked list)\queue program(singly linked list)\queue.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+f:\software\github\data_structure\queue program(singly linked list)\queue program(singly linked list)\queue.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+f:\software\github\data_structure\queue program(singly linked list)\queue program(singly linked list)\queue.c(79): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+f:\software\github\data_structure\queue program(singly linked list)\queue program(singly linked list)\queue.c(79): warning C4047: '=': 'Queue *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+f:\software\github\data_structure\queue program(singly linked list)\queue program(singly linked list)\queue.c(118): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Queue Program(Singly Linked List).vcxproj -> F:\Software\github\Data_Structure\Queue Program(Singly Linked List)\Debug\Queue Program(Singly Linked List).exe
