@@ -1,9 +1,9 @@
-# Implement and Test a Stack Program, Usning a Singly Linked List
+# Implement and Test a Queue Program, Usning a Singly Linked List
 
-# 4 functions, using an array of size 10
-- push (int)
-- int pop()
-- int stack_full()
-- int stack_empty()
+# 4 functions
+- enqueue(int)
+- int dequeue()
+- int queue_full()
+- int queue_empty()
 
 References Data Structure Lecture(Software Department) in Gachon University
